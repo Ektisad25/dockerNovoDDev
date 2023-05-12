@@ -16,7 +16,7 @@ Maintainers should see [MAINTAINERS.md](MAINTAINERS.md).
 
 Build and run:
 ```
-docker build -t welcome-to-docker . 
-docker run -d -p 8088:3000 --name welcome-to-docker welcome-to-docker
+docker build -t welcome-to-novo . 
+docker run -d -p 8088:3000 --name welcome-to-novo welcome-to-novo
 ```
 Open `http://localhost:8088` in your browser.
